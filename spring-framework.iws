@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="749ed41a-20a7-412b-9703-a3b28b5f73fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/org.springframework.asm/spring-asm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.springframework.aspects/spring-aspects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.springframework.instrument.tomcat/spring-instrument-tomcat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.springframework.spring-library/spring-library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.springframework.spring-parent/spring-parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.springframework.web.struts/spring-struts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.aop/aop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.aop/aop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.beans/beans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.beans/beans.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.context.support/context-support.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.context.support/context-support.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.context/context.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.context/context.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.core/core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.core/core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.expression/expression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.expression/expression.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.instrument/instrument.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.instrument/instrument.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.integration-tests/integration-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.integration-tests/integration-tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.jdbc/jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.jdbc/jdbc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.jms/jms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.jms/jms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.orm/orm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.orm/orm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.oxm/oxm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.oxm/oxm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.test/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.transaction/transaction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.transaction/transaction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.web.portlet/web-portlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.web.portlet/web-portlet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.web.servlet/web-servlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.web.servlet/web-servlet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.springframework.web/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.web/web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-framework.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework.ipr" afterDir="false" />
+    <list default="true" id="749ed41a-20a7-412b-9703-a3b28b5f73fb" name="Changes" comment="idea 21.2.2">
+      <change beforePath="$PROJECT_DIR$/org.springframework.beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.springframework.beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework.iws" beforeDir="false" afterPath="$PROJECT_DIR$/spring-framework.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +48,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652793538901</updated>
-      <workItem from="1652793542638" duration="5038000" />
+      <workItem from="1652793542638" duration="9507000" />
     </task>
+    <task id="LOCAL-00001" summary="idea 21.2.2">
+      <created>1653315625276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653315625276</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -88,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea 21.2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea 21.2.2" />
   </component>
 </project>
